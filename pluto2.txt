@@ -1,6 +1,2 @@
 What is Pluto?
-<<<<<<< HEAD
 Dwarf planet? 
-=======
-What is anything if but a moment in time?
->>>>>>> 2f57fc81e978b0c41cd6433e241550508eb02370
